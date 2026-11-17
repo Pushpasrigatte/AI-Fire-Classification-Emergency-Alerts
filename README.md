@@ -32,3 +32,13 @@ IMPORTANT:
 
 The app supports image upload and webcam capture, displays prediction/confidence, and creates an emergency alert when FIRE confidence crosses the configured threshold.
 
+## Dataset
+Kaggle FIRE Dataset
+
+Source: https://www.kaggle.com/datasets/phylake1337/fire-dataset
+
+The dataset contains:
+- 755 Fire images
+- 244 Non-Fire images
+  
+
